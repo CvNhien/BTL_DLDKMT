@@ -9,9 +9,10 @@ Firmware:
   + UART
   + ADC (đọc tín hiệu từ mạch xử lý cảm biến nhiệt độ PT100)
   + DAC (Tạo xung điều khiển động cơ SG90-180độ)
-  + DMA
+  + DMA - interupt
   + Digital Output
   + Digital Input
+  + External Interupt
 
 Software:
   Qt creator 5.12 (C++)
