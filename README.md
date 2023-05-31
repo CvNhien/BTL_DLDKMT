@@ -17,4 +17,9 @@ Software:
   Qt creator (C++)
   
  ![image](https://github.com/CvNhien/BTL_DLDKMT/assets/111190445/f2270ba4-1b03-426e-8704-3e33340515f8)
+ 
+Handshake protocol:
+
+![image](https://github.com/CvNhien/BTL_DLDKMT/assets/111190445/930fc53a-d7f4-4c16-a850-63dd384429e1)
+
 
