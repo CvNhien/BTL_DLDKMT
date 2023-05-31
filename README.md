@@ -14,7 +14,7 @@ Firmware:
   + Digital Input
 
 Software:
-  Qt creator (C++)
+  Qt creator 5.12 (C++)
   
  ![image](https://github.com/CvNhien/BTL_DLDKMT/assets/111190445/f2270ba4-1b03-426e-8704-3e33340515f8)
  
