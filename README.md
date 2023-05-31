@@ -12,6 +12,7 @@ Firmware:
   + DMA
   + Digital Output
   + Digital Input
+
 Software:
   Qt creator (C++)
   
